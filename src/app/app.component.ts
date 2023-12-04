@@ -1,11 +1,12 @@
 import { CommonModule } from '@angular/common';
 import { Component } from '@angular/core';
 import { ClassDirective } from './class.directive';
+import { TimesDirective } from './times.directive';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, ClassDirective],
+  imports: [CommonModule, ClassDirective, TimesDirective],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
