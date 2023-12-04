@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Website
 
-https://pages-woad-nu.vercel.app 
+You can find the finished product here: https://pages-woad-nu.vercel.app 
 
 ## Development server
 
