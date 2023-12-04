@@ -1,9 +1,8 @@
 # Pages
 
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
 
-##Website
+# Website
 
 https://pages-woad-nu.vercel.app 
 
